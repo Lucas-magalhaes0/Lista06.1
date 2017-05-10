@@ -29,7 +29,7 @@ final class Banco {
 		Banco.tipoHab[indexHabAtk] = tipo;
 		Banco.valAtk[indexHabAtk++] = valAtk;	
 		
-	}
+	} //
 	
 	
 	public static void addPoke (String nome, String tipo, int [] Golpes, int pVida, int pAtaque, int pDefesa, int pVelocidade) {
